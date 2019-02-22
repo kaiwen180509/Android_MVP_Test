@@ -1,2 +1,1 @@
-# InquireReward
-# Android_MVP_Test
+# Android MVP 架構
