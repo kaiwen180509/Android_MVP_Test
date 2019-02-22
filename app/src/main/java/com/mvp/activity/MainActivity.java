@@ -1,14 +1,14 @@
-package com.inquirereward.activity;
+package com.mvp.activity;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import com.inquirereward.R;
-import com.inquirereward.base.BaseActivity;
-import com.inquirereward.base.BasePresenter;
-import com.inquirereward.presenter.MainPresenter;
-import com.inquirereward.view.MainView;
+import com.mvp.R;
+import com.mvp.base.BaseActivity;
+import com.mvp.base.BasePresenter;
+import com.mvp.presenter.MainPresenter;
+import com.mvp.view.MainView;
 
 public class MainActivity extends BaseActivity implements MainView {
     private TextView text;

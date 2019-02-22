@@ -1,4 +1,4 @@
-package com.inquirereward.base;
+package com.mvp.base;
 
 public abstract class BasePresenter<V extends BaseView> {
 

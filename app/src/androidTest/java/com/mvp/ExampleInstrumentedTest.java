@@ -1,4 +1,4 @@
-package com.inquirereward;
+package com.mvp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

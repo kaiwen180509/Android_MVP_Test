@@ -1,6 +1,6 @@
-package com.inquirereward.base;
+package com.mvp.base;
 
-import com.inquirereward.callback.MainCallBack;
+import com.mvp.callback.MainCallBack;
 
 public abstract class BaseModel<T> {
     // 參數

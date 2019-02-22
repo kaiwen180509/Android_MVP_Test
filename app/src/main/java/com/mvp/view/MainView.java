@@ -1,6 +1,6 @@
-package com.inquirereward.view;
+package com.mvp.view;
 
-import com.inquirereward.base.BaseView;
+import com.mvp.base.BaseView;
 
 public interface MainView extends BaseView {
     /**

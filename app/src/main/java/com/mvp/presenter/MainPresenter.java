@@ -1,11 +1,11 @@
-package com.inquirereward.presenter;
+package com.mvp.presenter;
 
 
-import com.inquirereward.base.BasePresenter;
-import com.inquirereward.base.DataModel;
-import com.inquirereward.callback.MainCallBack;
-import com.inquirereward.model.MainModel;
-import com.inquirereward.view.MainView;
+import com.mvp.base.BasePresenter;
+import com.mvp.base.DataModel;
+import com.mvp.callback.MainCallBack;
+import com.mvp.model.MainModel;
+import com.mvp.view.MainView;
 
 public class MainPresenter extends BasePresenter<MainView> {
 

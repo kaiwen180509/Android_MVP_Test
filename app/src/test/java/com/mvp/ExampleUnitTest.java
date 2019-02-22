@@ -1,4 +1,4 @@
-package com.inquirereward;
+package com.mvp;
 
 import org.junit.Test;
 

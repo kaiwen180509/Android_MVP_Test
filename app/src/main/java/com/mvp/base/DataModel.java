@@ -1,4 +1,4 @@
-package com.inquirereward.base;
+package com.mvp.base;
 
 public class DataModel {
     public static BaseModel request(Class clazz) {

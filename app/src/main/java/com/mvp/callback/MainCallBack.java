@@ -1,6 +1,6 @@
-package com.inquirereward.callback;
+package com.mvp.callback;
 
-import com.inquirereward.base.BaseCallBack;
+import com.mvp.base.BaseCallBack;
 
 public interface MainCallBack<T> extends BaseCallBack {
     void setTextView();

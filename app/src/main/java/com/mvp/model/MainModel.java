@@ -1,7 +1,7 @@
-package com.inquirereward.model;
+package com.mvp.model;
 
-import com.inquirereward.base.BaseModel;
-import com.inquirereward.callback.MainCallBack;
+import com.mvp.base.BaseModel;
+import com.mvp.callback.MainCallBack;
 
 public class MainModel extends BaseModel<String> {
 
